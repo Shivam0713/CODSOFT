@@ -9,6 +9,7 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
 5. Limit the number of attempts the user has to guess the number.
 6. Add the option for multiple rounds, allowing the user to play again.
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
+   
    ![numbergame](https://github.com/Shivam0713/CODSOFT/assets/141110357/1f577b7f-3de2-49bb-aefb-5af60277ec29)
 
 
@@ -17,7 +18,9 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
 - Calculate Total Marks: Sum up the marks obtained in all subjects.
 - Calculate Average Percentage: Divide the total marks by the total number of subjects to get the average percentage.
 - Grade Calculation: Assign grades based on the average percentage achieved.
-- Display Results: Show the total marks, average percentage, and the corresponding grade to the use
+- Display Results: Show the total marks, average percentage, and the corresponding grade to the use.
+  
+  ![studentgrade](https://github.com/Shivam0713/CODSOFT/assets/141110357/ee6abb10-e4e3-46d5-bd5e-768170a7392b)
 
 ## TASK-3 (ATM INTERFACE)
 1. Create a class to represent the ATM machine.
@@ -27,6 +30,9 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
 5. Connect the ATM class with the user's bank account class to access and modify the account balance.
 6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
 7. Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.
+
+   ![atminterface](https://github.com/Shivam0713/CODSOFT/assets/141110357/87554d73-3da3-4975-a930-fe03ed2c01fd)
+
 
 ## TASK-4 (CURRENCY CONVERTER)
 - Currency Selection: Allow the user to choose the base currency and the target currency.
