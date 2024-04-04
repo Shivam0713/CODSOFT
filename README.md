@@ -9,6 +9,8 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
 5. Limit the number of attempts the user has to guess the number.
 6. Add the option for multiple rounds, allowing the user to play again.
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
+   ![numbergame](https://github.com/Shivam0713/CODSOFT/assets/141110357/1f577b7f-3de2-49bb-aefb-5af60277ec29)
+
 
 ## TASK-2 (STUDENT GRADE CALCULATOR)
 - Input: Take marks obtained (out of 100) in each subject.
